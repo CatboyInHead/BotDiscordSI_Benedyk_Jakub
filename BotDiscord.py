@@ -6,6 +6,7 @@ from transformers import AutoProcessor, AutoModelForCausalLM
 import torch
 from unittest.mock import patch
 
+#token do bota discord
 token = ""
 
 print("Ładowanie modelu Florence-2... Może to chwilę potrwać.")
