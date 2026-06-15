@@ -1,0 +1,5 @@
+Ocena: 5
+
+Krótki opis:
+- model VLM: microsoft/Florence-2-base
+- środowisko: Python 3.11
