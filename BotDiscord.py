@@ -6,7 +6,7 @@ from transformers import AutoProcessor, AutoModelForCausalLM
 import torch
 from unittest.mock import patch
 
-token = "MTUxNjAwMTg5MDMzNTE5OTM0NA.GnjDkm.Gb7ekd4rL6RvOJnnXG8cDbFlW4SzeqyQIcxOAY"
+token = ""
 
 print("Ładowanie modelu Florence-2... Może to chwilę potrwać.")
 model_id = "microsoft/Florence-2-base"
